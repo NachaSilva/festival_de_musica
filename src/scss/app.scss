@@ -1,5 +1,7 @@
-$rojo: green;
+// @import 'base/variables'; importacion anterior 
 
-body{
-    background-color: $rojo;
-}
+@use 'base';
+
+
+
+
