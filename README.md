@@ -8,7 +8,7 @@
 * [4. Contribuciones](#4-contribuciones)
 * [5. Contacto ](#5-contacto)
 
-  ## 1. Descripción del Proyecto
+## 1. Descripción del Proyecto
 ¡Bienvenido al proyecto Rock & EDM Festival! Este proyecto utiliza SASS, Gulp, JavaScript y HTML para crear un sitio web responsive que muestra el catálogo de artistas, galería de fotos y la opción de comprar boletos para el festival. Ver demo
 [aquí]([https://github.com/NachaSilva](https://65286b7125467a22ccf80f1c--stirring-moxie-496409.netlify.app/)https://65286b7125467a22ccf80f1c--stirring-moxie-496409.netlify.app/)
 
